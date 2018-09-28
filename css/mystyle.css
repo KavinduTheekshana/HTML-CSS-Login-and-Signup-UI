@@ -1,0 +1,74 @@
+.background{
+	background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(../image/1_AcYLHh0_ve4TNRi6HLFcPA.jpeg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+.formBackground{
+	background-color: #DDDDDD;
+	width: 400px;
+	height: 400px;
+	border-radius: 20px;
+	margin: auto;
+	margin-top: 10%;	
+}
+
+.formBackground2{
+	background-color: #DDDDDD;
+	width: 400px;
+	height: 540px;
+	border-radius: 20px;
+	margin: auto;
+	margin-top: 8%;	
+}
+.topicon{
+	width: 100px;
+	height: auto;
+	margin-top: -50px;
+	margin-left: 150px;
+}
+.formnew{
+	padding: 20px;
+}
+.glyphicon-lock{
+	content: url(../image/lock.png)
+}
+.glyphicon-mail{
+	content: url(../image/mail.png)
+}
+.glyphicon-user{
+	content: url(../image/users.png)
+}
+#inputz{
+	margin-top: -15px;
+	margin-bottom: 20px;
+}
+#btnnew{
+	margin-top: 20px;
+	width: 360px;
+	height: 50px;
+}
+#btnnew3{
+	margin-top: -11px;
+	width: 360px;
+	height: 50px;
+}
+
+#btnnew2{
+	margin-top: 8px;
+	width: 360px;
+	height: 50px;
+}
+#particles-js{
+	
+}
+.memberlogin{
+	font-family: 'Poiret One', cursive;
+	font-weight: 100;
+	font-size: 40px;
+	text-align: center;
+}
+
